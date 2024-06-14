@@ -1,0 +1,50 @@
+
+# number 1
+import numpy as np
+import math
+
+numbers = np.array(range(1000))
+multiples = ([num for num in numbers if num % 3 == 0 or num % 5 == 0])
+print('question 1: ' + str(sum(multiples)))
+
+# number 2
+x = 0
+y = 1
+z = 0
+fibonacci = [1,2,3]
+
+while x < 4000000:
+    y = y + fibonacci[z-1]
+    fibonacci.append(y)
+    z = z + 1
+    x = max(fibonacci)
+
+even_fibonacci = [num for num in fibonacci  if num % 2 == 0 and num < 4000000]
+print('question 2: ' + str(sum(even_fibonacci)))
+
+# number 3
+'''
+num = 600851475143
+numbers = np.array(range(2,num))
+
+factors = [i for i in numbers if num % i == 0]
+
+prime_numbers = []
+
+for number in factors:
+
+    prime = True
+    
+    for i in range(2,math.ceil(number/2)):
+        
+        if number % i == 0:
+            prime = False
+            break
+    
+    if prime == True:
+        prime_numbers.append(number)
+
+
+print(prime_numbers)
+print('question 3: ' + str(sum(prime_numbers)))
+'''
