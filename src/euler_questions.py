@@ -11,7 +11,7 @@ print('question 1: ' + str(sum(multiples)))
 x = 0
 y = 1
 z = 0
-fibonacci = [1,2,3]
+fibonacci = [0]
 
 while x < 4000000:
     y = y + fibonacci[z-1]
@@ -23,28 +23,15 @@ even_fibonacci = [num for num in fibonacci  if num % 2 == 0 and num < 4000000]
 print('question 2: ' + str(sum(even_fibonacci)))
 
 # number 3
-'''
-num = 600851475143
-numbers = np.array(range(2,num))
 
-factors = [i for i in numbers if num % i == 0]
+num = 600851475143 
+x = 2
 
-prime_numbers = []
+while x < math.sqrt(num):
+    while num % x == 0:
+        num = num / x
+    x = x + 1
 
-for number in factors:
+num = int(num)
 
-    prime = True
-    
-    for i in range(2,math.ceil(number/2)):
-        
-        if number % i == 0:
-            prime = False
-            break
-    
-    if prime == True:
-        prime_numbers.append(number)
-
-
-print(prime_numbers)
-print('question 3: ' + str(sum(prime_numbers)))
-'''
+print('question 3: ' + str(num) )
