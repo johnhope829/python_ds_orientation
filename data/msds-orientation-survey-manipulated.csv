@@ -1,0 +1,68 @@
+,index,Timestamp,What is your uva net id? (e.g. mst3k),What is your github user name?,Operating System,CPU Cycle Rate (in GHz),CPU Number of Cores (int),RAM (in GB),Hard Drive Size (in GB),GPU (short description as a string),GPU CUDA Number of Cores (int)
+0,316,2024-06-13 13:54:00,zy7ts,@alexyang790,MacOS,3.2,8,8,256,Integrated with CPU ,8.0
+1,317,2024-06-13 13:56:00,ASM2FE,ashley-m,Windows,3.8,16,16,1024,Integrated,0.0
+2,318,2024-06-13 13:57:00,mtb2tgk,mattbeck1,MacOS,2.4,4,8,250,Intel Iris Plus Graphics 655 1536 MB,0.0
+3,319,2024-06-13 13:59:00,fnj7ht,dishhhha,MacOS,3.228,10,16,512,14,24.0
+4,320,2024-06-13 13:59:00,fyx6wf,fyx6wf,MacOS,3.9,4,8,128,Intel Iris Plus Graphics 645,48.0
+5,321,2024-06-13 13:59:00,ggd8hvd,georgiagrace207,Windows,2.59,6,16,476,Inter(R) UHD Graphics 630,896.0
+6,322,2024-06-13 14:01:00,qdy4zt,charbelmarche33,Windows,2.8,4,16,475,Intel Iris Xe Graphics,1.0
+7,323,2024-06-13 14:01:00,bcp8dm,Dorukozar,MacOS,4.05,14,48,1000,Apple-designed integrated graphics (8â€“40 core),0.0
+8,324,2024-06-13 14:01:00,gnq2mr,jamessiegener,MacOS,3.2,8,16,512,M1 Integrated 8 core GPU,0.0
+9,325,2024-06-13 14:01:00,mdp8gd,cvanniek,Windows,2.4,4,16,512,HP Spectre x360 with Intel Core i7-1165G7,1536.0
+10,326,2024-06-13 14:01:00,js7jx,Jonathan-swap,MacOS,4.05,12,18,994,18,0.0
+11,327,2024-06-13 14:01:00,qmy6cv,qmyhd,Windows,2.6,6,16,457,NVIDIA GeForce GTX 1660 Ti,1536.0
+12,328,2024-06-13 14:02:00,qtf7du,vishugp,Windows,1.6,10,32,1000,Intel(R) UHD Graphics + NVIDIA RTX A500,4.0
+13,329,2024-06-13 14:03:00,ljn5yms,lnap24,MacOS,1.4,4,16,251,Intel Iris Plus Graphics 645,48.0
+14,330,2024-06-13 14:04:00,uqs3dq,uqs3dq,Windows,1.0,4,8,236,Intel(R) UHD Graphics,0.0
+15,331,2024-06-13 14:04:00,eqa7yg,mermora97,Windows,1.3,10,16,512,Intel Core i5,0.0
+16,332,2024-06-13 14:04:00,ft8xx,fturkistani,MacOS,3.2,8,8,256,Apple M1,8.0
+17,333,2024-06-13 14:05:00,nps3cs,kurt-jr,MacOS,2.0,4,16,516,Intel Iris Plus Graphics 1536 MB,0.0
+18,334,2024-06-13 14:06:00,fjp8ez,notjavo,MacOS,3.5,12,16,512,M2 Pro,19.0
+19,335,2024-06-13 14:06:00,ttg6nx,tylergorecki,MacOS,4.05,16,18,994,Apple M3 Pro,18.0
+20,336,2024-06-13 14:06:00,wgp3aq,wperitz,MacOS,2.6,6,16,1000,AMD Radeon Pro 5300M 4 GB,1280.0
+21,337,2024-06-13 14:06:00,cpm6gh,AndrewCornfeld,Windows,1.7,10,16,512,Intel(R) Iris(R) Xe Graphics,10.0
+22,338,2024-06-13 14:06:00,wbd3kw,riyapulla,Windows,1.8,2,8,121,Intel HD Graphics 6000 1536 MB,2.0
+23,339,2024-06-13 14:06:00,kl2jmx,,Windows,3.8,16,32,1000,Integrated graphics,0.0
+24,340,2024-06-13 14:06:00,ajh5ae,ashleyjhuang,Windows,1.0,10,8,215,Intel(R) Iris(R) Xe Graphics,10.0
+25,341,2024-06-13 14:07:00,jak5je,JKenzak,MacOS,1.1,2,8,251,Intel Iris Plus Graphics 1536 MB,0.0
+26,342,2024-06-13 14:07:00,ksg8xy,hyounce,MacOS,3.2,8,8,494,Apple M1,8.0
+27,343,2024-06-13 14:07:00,arg8qqv,argoel21,MacOS,3.2,8,16,494,Apple M1 Pro,14.0
+28,344,2024-06-13 14:07:00,cwp5xyj,charlie-perez-35,Windows,1.3,4,8,512,Intel Iris Plus Graphics,512.0
+29,345,2024-06-13 14:07:00,nuf8ms,trenton-slocum,MacOS,4.05,14,36,1000,M3 Max chip with 30 core integrated gpu,0.0
+30,346,2024-06-13 14:08:00,ncc9kn,colbyle25,MacOS,1.2,4,16,250,Intel Iris Plus Graphics 1536 MB,0.0
+31,347,2024-06-13 14:08:00,dcy2dq,,Windows,1.7,10,16,477,Intel (R) iRIS(R) Xe Graphics,0.0
+32,348,2024-06-13 14:08:00,gbz6qn,i-levy,MacOS,3.2,8,8,245,Apple M1,7.0
+33,349,2024-06-13 14:08:00,aa7dd,AfnanAbdul,MacOS,2.3,8,32,1000,Intel UHD Graphics 630 1536 MB,192.0
+34,350,2024-06-13 14:09:00,yuk7du,cartday8,Windows,1.1,4,8,128,Intel Iris Plus Graphics,655.0
+35,351,2024-06-13 14:09:00,uua9gw,lathangregg,MacOS,2.3,8,16,500,Radeon Pro 560X 4 GB,8.0
+36,352,2024-06-13 14:09:00,rs7aq,rs7aq,Windows,1.39,10,16,512,Intel (R) Iris (R) Xe Graphics,0.0
+37,353,2024-06-13 14:09:00,tjs5nx,Taylor-Skomp,Windows,1.3,10,16,512,Intel Iris Xe Graphics,10.0
+38,354,2024-06-13 14:10:00,dgr7pb,Pstone2,Windows,1.5,4,32,2000,NVIDIA GeForce GTX 1660 Ti with Max-Q Design,1536.0
+39,355,2024-06-13 14:10:00,bur6yx,muhurto-rahman,Windows,3.2,8,16,474,NVIDIA GeForce RTX 3050 6GB,2304.0
+40,356,2024-06-13 14:10:00,yss2zv,courtneyhodge,Windows,2.1,4,16,952,RTX 4050 GPU,0.0
+41,357,2024-06-13 14:10:00,jst7ee,jst7ee,Windows,1.8,16,16,952,AMD Radeon Graphics Processor,0.0
+42,358,2024-06-13 14:11:00,skk8kc,djl1626,MacOS,2.6,6,16,500,Intel UHD Graphics 630,0.0
+43,359,2024-06-13 14:11:00,ak2znr,akaashkamdar,MacOS,2.93,8,8,512,Apple M2 Built-In 8 Core GPU,8.0
+44,360,2024-06-13 14:12:00,fmt2tg,richardkuehn,MacOS,3.2,10,16,494,Apple M1 Pro,0.0
+45,361,2024-06-13 14:12:00,mdg7wj,BenPelczy,MacOS,3.2,8,8,494,Apple M1,0.0
+46,362,2024-06-13 14:12:00,prz3dt,chr1st1n3g30rg3,Windows,180.0,4,8,212,Intel(R) UHD Graphics 620,0.0
+47,363,2024-06-13 14:12:00,qja8kc,bernard-gonzales,Windows,2.3,4,16,952,NVIDIA GeForce GTX 1050 with Max-Q Design,640.0
+48,364,2024-06-13 14:12:00,sqr8ap,sqr8ap,MacOS,3.2,8,16,1000,M1,0.0
+49,365,2024-06-13 14:12:00,urn8he,kianadane,MacOS,3.0,3,8,494,	Apple-designed integrated graphics (8â€“76 core),8.0
+50,366,2024-06-13 14:13:00,vrd9sd,lukeschneider7,MacOS,698.0,4,16,512,Intel Iris Plus Graphics 1536 MB,0.0
+51,367,2024-06-13 14:13:00,qcp6az,finnmok,Windows,1.5,4,16,239,Intel(R) Iris(R) Plus Graphics,0.0
+52,368,2024-06-13 14:13:00,czz7bf,csjapic,Windows,2.9,4,8,475,3.8,0.0
+53,369,2024-06-13 14:14:00,dbm4bj,rsfellman,Windows,2.6,6,32,475,Intel(R) UHD Graphics 630,640.0
+54,370,2024-06-13 14:14:00,wtc6vz,,Windows,1.99,4,16,475,Intel(R) UHD Graphics 620,0.0
+55,371,2024-06-13 14:14:00,unc6kr,hvalenty,Windows,2.4,4,12,458,Intel(R) Iris(R) Xe Graphics,0.0
+56,372,2024-06-13 14:14:00,lgs4zj,Lucy-Shichman,MacOS,4.05,8,16,512,Apple-designed integrated graphics,10.0
+57,373,2024-06-13 14:15:00,ag6ykz,alandag24,MacOS,3.2,8,8,251,Apple M1,0.0
+58,374,2024-06-13 14:16:00,ehe5bn,Zach0411,Windows,1.7,12,16,1000,Intel Core Ultra 7,12.0
+59,375,2024-06-13 14:16:00,lgr2sge,learunesha,MacOS,3.49,16,8,245,Apple-designed integrated graphics (8â€“76 core),16.0
+60,376,2024-06-13 14:17:00,jah9kqn,johnhope829,MacOS,1.6,2,16,251,Intel UHD Graphics 617 1536 MB,0.0
+61,377,2024-06-13 14:17:00,svw6dn,trivedidn,Windows,2.0,4,40,280,NVIDIA GeForce GTX 1050,768.0
+62,378,2024-06-13 14:23:00,gry6ks,bcastro20,Windows,1.9,4,32,32,Intel(R) UHD Graphics 620,4.0
+63,379,2024-06-13 14:25:00,xmc6rp,Coues10624,Windows,1.9,4,16,256,Intel Integrated HD Graphics 620,4.0
+64,380,2024-06-13 14:26:00,drz8rt,casscub24,Windows,1.9,4,32,32,Intel(R) UHD Graphics 620,0.0
+65,381,2024-06-13 18:33:00,gec2tp,GEMcordelli,Windows,2.3,8,32,471,NVIDIA T1200,1024.0
+66,382,2024-06-13 21:35:00,asm2fe,ashley-m,Windows,3.8,16,16,1024,Intel Arc integrated,0.0
